@@ -3,3 +3,10 @@ body{
      background: pink;
      text-align: center;
 }
+div{
+     margin:0;
+     background-color: white;
+     border: gray;
+     width: 90%;
+
+}
