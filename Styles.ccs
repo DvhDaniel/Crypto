@@ -5,7 +5,7 @@ body{
 }
 div{
      margin:0;
-     background-color: white;
+     background: white;
      border: gray:
      width: 90%;
 }
