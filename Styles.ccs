@@ -6,7 +6,9 @@ body{
 div{
      margin:0;
      background-color: white;
-     border: gray;
+     border: gray:
      width: 90%;
-
+}
+h1{
+     color: gray;
 }
