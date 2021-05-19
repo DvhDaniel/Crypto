@@ -27,7 +27,7 @@ h1{
           }
 .column3 {
            float: left;
-          width: 33%;
+          width: 30%;
           padding:  0 10px;
           }          
 .card {
