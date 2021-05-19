@@ -39,5 +39,6 @@ h1{
 .Down {
           width: 300px;
           border: 15px solid gray;
+          text-align: center;
 }
     
