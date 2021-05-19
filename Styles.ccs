@@ -4,8 +4,7 @@ body{
      text-align: center;
 }
 div{
-     margin:0;
-     border: gray:
+   
      width: 90%;
 }
 h1{
