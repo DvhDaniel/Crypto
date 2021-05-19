@@ -5,7 +5,6 @@ body{
 }
 div{
      margin:0;
-     background: white;
      border: gray:
      width: 90%;
 }
